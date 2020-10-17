@@ -11,7 +11,7 @@ sections:
   label: Content
 - type: directory
   path: content/posts
-  label: Blog Posts
+  label: Blofg Posts
   create: documents
   match: "**/*"
   new_doc_ext: md
